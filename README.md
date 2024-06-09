@@ -44,7 +44,7 @@ Before you begin, ensure you have met the following requirements:
 ### Screenshots 📸
 
 <p align="center">
-  <img src="screenshots/abcd.png" width="250" alt="Cloudy Weather">
+  <img src="screenshots/abcd.jpeg" width="250" alt="Cloudy Weather">
 </p>
 
 ### Usage 📝
